@@ -1,2 +1,3 @@
 # Games-Rating
-Finds ratings for steam games and put them in google sheet
+Automated getting ratings for steam games from opencritic
+opencritics API is not public, so had to use playwright and google sheets API as a workaround.
